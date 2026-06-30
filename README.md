@@ -13,7 +13,7 @@ A simple Python application that allows users to calculate the total value of th
 - Save portfolio summary to a text file
 - Modular code using Python functions
 
-## Technologies Used
+## Technologies 
 
 - Python 3
 - Dictionaries
@@ -81,4 +81,4 @@ Total Invested Value: $1040
 
 ## Author
 
-** Aditi Tripathi **
+**Aditi Tripathi**
